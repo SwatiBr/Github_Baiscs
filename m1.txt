@@ -17,3 +17,4 @@ added change for stash1
 
 added changes for branch1
 change1
+change2
